@@ -6,7 +6,7 @@ Created in October 2025.
 
 ---
 
-## 🇮🇩 Versi Bahasa Indonesia
+## 🇮🇩 Bahasa Indonesia
 
 Font **Sandi Kotak 1 by Pramuka Sejati** dan **Sandi Kotak 2 by Pramuka Sejati** dilindungi oleh hak cipta.  
 Font ini **boleh digunakan secara bebas** untuk:
@@ -23,11 +23,11 @@ Font ini **boleh digunakan secara bebas** untuk:
 - Mengunggah ulang font ini ke situs lain tanpa izin pembuat
 
 Untuk **izin penggunaan komersial**, silakan menghubungi:  
-📧 ash@pramukasejati.id
+📧 pramuka.indonesia.sejati@gmail.com
 
 ---
 
-## 🇬🇧 English Version
+## 🇬🇧 English
 
 The fonts **Sandi Kotak 1 by Pramuka Sejati** and **Sandi Kotak 2 by Pramuka Sejati** are protected by copyright.  
 These fonts are **free to use** for:
@@ -44,7 +44,7 @@ These fonts are **free to use** for:
 - Re-upload these fonts to other websites without permission
 
 For **commercial licensing inquiries**, please contact:  
-📧 ash@pramukasejati.id
+📧 pramuka.indonesia.sejati@gmail.com
 
 ---
 
