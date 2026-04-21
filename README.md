@@ -8,8 +8,8 @@ Font koleksi Pramuka Sejati untuk latihan dan pembelajaran sandi.
 
 ## 📜 Lisensi
 Font ini bebas digunakan untuk keperluan **pribadi, pendidikan, dan non-komersial**.  
-Untuk penggunaan komersial, harap menghubungi **Ash Shiddieqy (pramuka.indonesia.sejati@gmail.com)**.  
+Untuk penggunaan komersial, harap menghubungi **Ash Shiddieqy (lirihku.berucap@gmail.com)**.  
 Lihat detail lengkap di [LICENSE.md](./LICENSE.md).
 
 ## 🌐 Website
-[https://pramukasejati.id](https://pramukasejati.id)
+[https://www.lirihku.id/](https://www.lirihku.id/)
