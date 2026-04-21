@@ -1,6 +1,6 @@
 # 📜 LICENSE — Sandi Kotak 1 & Sandi Kotak 2 by Pramuka Sejati
 
-**Copyright © 2025 Ash Shiddieqy — [Pramuka Sejati](https://pramukasejati.id)**  
+**Copyright © 2025 Ash Shiddieqy — [Pramuka Sejati](https://www.lirihku.id/)**  
 All rights reserved.  
 Created in October 2025.
 
@@ -23,7 +23,7 @@ Font ini **boleh digunakan secara bebas** untuk:
 - Mengunggah ulang font ini ke situs lain tanpa izin pembuat
 
 Untuk **izin penggunaan komersial**, silakan menghubungi:  
-📧 pramuka.indonesia.sejati@gmail.com
+📧 lirihku.berucap@gmail.com
 
 ---
 
@@ -44,7 +44,7 @@ These fonts are **free to use** for:
 - Re-upload these fonts to other websites without permission
 
 For **commercial licensing inquiries**, please contact:  
-📧 pramuka.indonesia.sejati@gmail.com
+📧 lirihku.berucap@gmail.com
 
 ---
 
@@ -54,5 +54,5 @@ For **commercial licensing inquiries**, please contact:
 - Commercial use requires written permission from the author.  
 
 **Author:** Ash Shiddieqy  
-**Website:** [https://pramukasejati.id](https://pramukasejati.id)  
+**Website:** [https://www.lirihku.id/](https://www.lirihku.id/)  
 **Created:** October 2025
