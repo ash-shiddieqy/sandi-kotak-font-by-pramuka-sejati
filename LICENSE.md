@@ -8,7 +8,7 @@ Created in October 2025 And February 2026.
 
 ## 🇮🇩 Bahasa Indonesia
 
-Font **Sandi Kotak 1 by Pramuka Sejati** **Sandi Kotak 2 by Pramuka Sejati** dan **Sandi Kotak 3 by Pramuka Sejati** dilindungi oleh hak cipta.  
+Font **Sandi Kotak 1 by Pramuka Sejati**, **Sandi Kotak 2 by Pramuka Sejati** dan **Sandi Kotak 3 by Pramuka Sejati** dilindungi oleh hak cipta.  
 Font ini **boleh digunakan secara bebas** untuk:
 
 - Keperluan **pribadi**, seperti desain individu, blog non-komersial, atau kegiatan pramuka  
@@ -29,7 +29,7 @@ Untuk **izin penggunaan komersial**, silakan menghubungi:
 
 ## 🇬🇧 English
 
-The fonts **Sandi Kotak 1 by Pramuka Sejati** **Sandi Kotak 2 by Pramuka Sejati** and **Sandi Kotak 3 by Pramuka Sejati** are protected by copyright.  
+The fonts **Sandi Kotak 1 by Pramuka Sejati**, **Sandi Kotak 2 by Pramuka Sejati** and **Sandi Kotak 3 by Pramuka Sejati** are protected by copyright.  
 These fonts are **free to use** for:
 
 - **Personal use** (individual design, non-commercial blogs, scouting activities, etc.)  
