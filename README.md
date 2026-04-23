@@ -5,6 +5,7 @@ Font koleksi Pramuka Sejati untuk latihan dan pembelajaran sandi.
 ## 📁 Isi Font
 - **Sandi Kotak 1 by Pramuka Sejati**
 - **Sandi Kotak 2 by Pramuka Sejati**
+- **Sandi Kotak 3 by Pramuka Sejati**
 
 ## 📜 Lisensi
 Font ini bebas digunakan untuk keperluan **pribadi, pendidikan, dan non-komersial**.  
