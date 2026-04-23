@@ -2,7 +2,7 @@
 
 **Copyright © 2025 Ash Shiddieqy — [Pramuka Sejati](https://www.lirihku.id/)**  
 All rights reserved.  
-Created in October 2025 And February 23 2026.
+Created in October 2025 And February 2026.
 
 ---
 
